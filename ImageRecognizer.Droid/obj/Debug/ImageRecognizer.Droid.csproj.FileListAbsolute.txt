@@ -1,0 +1,94 @@
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.dll
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.pdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.ImageRecognizer.Droid.apk
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.ImageRecognizer.Droid-Signed.apk
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.dll
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.pdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\bin\ImageRecognizer.Droid.ImageRecognizer.Droid.apk
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\layout\result.xml
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\R.cs.flag
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\uploadflags.txt
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\ImageRecognizer.Droid.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Johan Villanueva\Downloads\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.pdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.pdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.ImageRecognizer.Droid.apk
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.ImageRecognizer.Droid-Signed.apk
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\bin\ImageRecognizer.Droid.ImageRecognizer.Droid.apk
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\layout\result.xml
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\layout\main.xml
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\values\strings.xml
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\R.cs.flag
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\uploadflags.txt
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Core.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\ImageRecognizer.Droid.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\CSharp-TranslateSample.exe
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\CSharp-TranslateSample.pdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\ImageRecognizer.Droid.dll.mdb
