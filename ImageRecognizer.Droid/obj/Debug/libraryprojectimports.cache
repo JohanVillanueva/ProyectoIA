@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars></Jars>
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\__library_projects__\Plugin.TextToSpeech\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.TextToSpeech\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\__library_projects__\Plugin.TextToSpeech.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

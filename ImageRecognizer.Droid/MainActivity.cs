@@ -3,11 +3,15 @@ using Android.Content;
 using Android.OS;
 using Android.Provider;
 using Android.Widget;
+
 using System;
 using System.IO;
 using Environment = Android.OS.Environment;
 using Path = System.IO.Path;
 using Uri = Android.Net.Uri;
+
+
+
 
 namespace ImageRecognizer.Droid
 {
@@ -26,7 +30,7 @@ namespace ImageRecognizer.Droid
             SetContentView(Resource.Layout.Main);
 
             btnCapturePicture = FindViewById<Button>(Resource.Id.btnCapturePicture);
-
+            Plugin.TextToSpeech.CrossTextToSpeech.Current.Init();
             btnCapturePicture.Click += (s, args) =>
             {
                 TakePicture();

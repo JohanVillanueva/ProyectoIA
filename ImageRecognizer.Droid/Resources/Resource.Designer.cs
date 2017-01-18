@@ -26,6 +26,8 @@ namespace ImageRecognizer.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Plugin.TextToSpeech.Resource.String.ApplicationName = global::ImageRecognizer.Droid.Resource.String.ApplicationName;
+			global::Plugin.TextToSpeech.Resource.String.Hello = global::ImageRecognizer.Droid.Resource.String.Hello;
 		}
 		
 		public partial class Attribute

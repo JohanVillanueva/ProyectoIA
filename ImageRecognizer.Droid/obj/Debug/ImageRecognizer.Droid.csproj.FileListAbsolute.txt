@@ -66,7 +66,15 @@ C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\res\drawable\icon.png
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\R.cs.flag
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\uploadflags.txt
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.pdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.xml
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.pdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.xml
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\ImageRecognizer.Droid.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Plugin.TextToSpeech.Abstractions.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Java.Interop.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Microsoft.CSharp.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\bin\Debug\Mono.Android.dll.mdb
@@ -86,6 +94,8 @@ C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.Abstractions.dll.mdb
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Core.dll.mdb
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.dll.mdb

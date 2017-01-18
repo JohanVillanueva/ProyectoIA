@@ -101,6 +101,8 @@ class MonoPackageManager_Resources {
 		"ImageRecognizer.Droid.dll",
 		"Microsoft.ProjectOxford.Vision.dll",
 		"Newtonsoft.Json.dll",
+		"Plugin.TextToSpeech.Abstractions.dll",
+		"Plugin.TextToSpeech.dll",
 		"System.Net.Http.Extensions.dll",
 		"System.Net.Http.Primitives.dll",
 		"System.Threading.dll",

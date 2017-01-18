@@ -6,3 +6,7 @@ ImageRecognizer.Droid.ResultActivity, ImageRecognizer.Droid;md5468f01771cb450122
 ImageRecognizer.Droid.ResultActivity, ImageRecognizer.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
 ImageRecognizer.Droid.ResultActivity;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
 imagerecognizer.droid.ResultActivity;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
+Plugin.TextToSpeech.TextToSpeech, Plugin.TextToSpeech;md54e563667b320e8477294d1af4ca5a8db.TextToSpeech
+Plugin.TextToSpeech.TextToSpeech, Plugin.TextToSpeech, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md54e563667b320e8477294d1af4ca5a8db.TextToSpeech
+Plugin.TextToSpeech.TextToSpeech;md54e563667b320e8477294d1af4ca5a8db.TextToSpeech
+plugin.texttospeech.TextToSpeech;md54e563667b320e8477294d1af4ca5a8db.TextToSpeech

@@ -11,7 +11,9 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Uri = Android.Net.Uri;
- 
+using Plugin.TextToSpeech;
+using Plugin.TextToSpeech.Abstractions;
+
 
 namespace ImageRecognizer.Droid
 {
@@ -59,6 +61,10 @@ namespace ImageRecognizer.Droid
            
             else
                 description.Text = "No se puede acceder al API";
+
+            //Voz
+            CrossTextToSpeech.Current.Speak(resultadoTraducido);
+            //
         }
 
         //  From StackOverFlow:

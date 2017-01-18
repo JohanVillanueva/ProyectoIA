@@ -9,6 +9,8 @@ C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Xml.Linq.dll
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Microsoft.ProjectOxford.Vision.dll
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.Abstractions.dll
+C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\Plugin.TextToSpeech.dll
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Net.Http.Extensions.dll
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Net.Http.Primitives.dll
 C:\Users\Johan Villanueva\Documents\Visual Studio 2015\Projects\ImageRecognizer-master\ImageRecognizer.Droid\obj\Debug\android\assets\System.Threading.dll
