@@ -11,14 +11,16 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
+        public static final int ic_insert_photo=0x7f020000;
+        public static final int ic_photo_camera=0x7f020001;
+        public static final int icon=0x7f020002;
     }
     public static final class id {
-        public static final int btnCapturePicture=0x7f050001;
+        public static final int btnCapturePicture=0x7f050000;
         public static final int imageResult=0x7f050004;
-        public static final int textView2=0x7f050002;
-        public static final int textoResultado=0x7f050003;
-        public static final int titleText=0x7f050000;
+        public static final int textView2=0x7f050001;
+        public static final int textoResultado=0x7f050002;
+        public static final int textoResultadoTraducido=0x7f050003;
     }
     public static final class layout {
         public static final int main=0x7f030000;

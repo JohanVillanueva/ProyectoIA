@@ -19,7 +19,7 @@ namespace ImageRecognizer.Droid
 {
    
 
-    [Activity(Label = "ResultActivity")]
+    [Activity(Label = "Análisis y traducción")]
     public class ResultActivity : Activity
     {
         
@@ -28,6 +28,7 @@ namespace ImageRecognizer.Droid
         private Uri fileUri;
         private ImageView imgPreview;
         private TextView description;
+        private TextView descripciontraducida;
         private TranslateService servicioTraduccion;
         protected async override void OnCreate(Bundle savedInstanceState)
         {
@@ -37,6 +38,7 @@ namespace ImageRecognizer.Droid
             visionClient = new VisionServiceClient(SUBSCRIPTION_KEY);
             imgPreview = FindViewById<ImageView>(Resource.Id.imageResult);
             description = FindViewById<TextView>(Resource.Id.textoResultado);
+            descripciontraducida = FindViewById<TextView>(Resource.Id.textoResultadoTraducido);
             servicioTraduccion = new TranslateService();
             //  Get File Uri from taken picture
             fileUri = (Uri)Intent.Extras.GetParcelable("fileUri");
@@ -49,16 +51,20 @@ namespace ImageRecognizer.Droid
 
             //  Analyze image
             ResizeImage(fileUri.Path, 800, 800);
+
             var result = await DescribeImage(new FileStream(fileUri.Path, FileMode.Open));
 
+           
             string descIngles = result.Description.Captions.First().Text;
             string resultadoTraducido = await servicioTraduccion.TranslateString(descIngles, "es");
             dialog.Dismiss();
 
             //  Show answer
             if (result != null)
-                description.Text = resultadoTraducido;
-           
+            {
+                description.Text = descIngles;
+                descripciontraducida.Text = resultadoTraducido;
+            }
             else
                 description.Text = "No se puede acceder al API";
 

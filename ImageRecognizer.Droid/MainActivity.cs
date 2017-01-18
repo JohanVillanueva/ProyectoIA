@@ -15,7 +15,7 @@ using Uri = Android.Net.Uri;
 
 namespace ImageRecognizer.Droid
 {
-    [Activity(Label = "CameraDemo", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Reconocimiento de imágenes", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         private const int CAMERA_CAPTURE_IMAGE_REQUEST_CODE = 100;
@@ -23,6 +23,7 @@ namespace ImageRecognizer.Droid
         private Uri fileUri;
 
         private Button btnCapturePicture;
+        //private Button btnGallery;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -30,15 +31,23 @@ namespace ImageRecognizer.Droid
             SetContentView(Resource.Layout.Main);
 
             btnCapturePicture = FindViewById<Button>(Resource.Id.btnCapturePicture);
+            //btnGallery = FindViewById<Button>(Resource.Id.btnGallery);
             Plugin.TextToSpeech.CrossTextToSpeech.Current.Init();
             btnCapturePicture.Click += (s, args) =>
             {
                 TakePicture();
             };
+            //btnGallery.Click += (s, args) =>
+            //{
+            //    OpenGallery();
+            //};
         }
 
         #region HelperMethods
 
+        //private void OpenGallery() {
+
+        //}
         private void TakePicture()
         {
             Intent intent = new Intent(MediaStore.ActionImageCapture);
