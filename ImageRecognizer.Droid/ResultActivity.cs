@@ -11,20 +11,22 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Uri = Android.Net.Uri;
-using CSharp_TranslateSample;
+ 
 
 namespace ImageRecognizer.Droid
 {
-    
+   
+
     [Activity(Label = "ResultActivity")]
     public class ResultActivity : Activity
     {
+        
         private VisionServiceClient visionClient;
         private const string SUBSCRIPTION_KEY = "0036de1c9c17407a856bd3b47d690d6e";
         private Uri fileUri;
         private ImageView imgPreview;
         private TextView description;
-
+        private TranslateService servicioTraduccion;
         protected async override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -33,7 +35,7 @@ namespace ImageRecognizer.Droid
             visionClient = new VisionServiceClient(SUBSCRIPTION_KEY);
             imgPreview = FindViewById<ImageView>(Resource.Id.imageResult);
             description = FindViewById<TextView>(Resource.Id.textoResultado);
-
+            servicioTraduccion = new TranslateService();
             //  Get File Uri from taken picture
             fileUri = (Uri)Intent.Extras.GetParcelable("fileUri");
 
@@ -47,16 +49,14 @@ namespace ImageRecognizer.Droid
             ResizeImage(fileUri.Path, 800, 800);
             var result = await DescribeImage(new FileStream(fileUri.Path, FileMode.Open));
 
-            
-            Program.iniciar();
-            string resultadoTraducido = Program.traducida;
-
+            string descIngles = result.Description.Captions.First().Text;
+            string resultadoTraducido = await servicioTraduccion.TranslateString(descIngles, "es");
             dialog.Dismiss();
 
             //  Show answer
             if (result != null)
-                description.Text = result.Description.Captions.First().Text;
-                //description.Text = resultadoTraducido;
+                description.Text = resultadoTraducido;
+           
             else
                 description.Text = "No se puede acceder al API";
         }

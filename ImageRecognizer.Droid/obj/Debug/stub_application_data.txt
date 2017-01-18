@@ -1,0 +1,2 @@
+android.app.Application
+ImageRecognizer.Droid.ImageRecognizer.Droid

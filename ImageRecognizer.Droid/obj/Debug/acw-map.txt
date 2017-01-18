@@ -1,0 +1,8 @@
+ImageRecognizer.Droid.MainActivity, ImageRecognizer.Droid;md5468f01771cb45012241f4e3a5450ac03.MainActivity
+ImageRecognizer.Droid.MainActivity, ImageRecognizer.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5468f01771cb45012241f4e3a5450ac03.MainActivity
+ImageRecognizer.Droid.MainActivity;md5468f01771cb45012241f4e3a5450ac03.MainActivity
+imagerecognizer.droid.MainActivity;md5468f01771cb45012241f4e3a5450ac03.MainActivity
+ImageRecognizer.Droid.ResultActivity, ImageRecognizer.Droid;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
+ImageRecognizer.Droid.ResultActivity, ImageRecognizer.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
+ImageRecognizer.Droid.ResultActivity;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
+imagerecognizer.droid.ResultActivity;md5468f01771cb45012241f4e3a5450ac03.ResultActivity
