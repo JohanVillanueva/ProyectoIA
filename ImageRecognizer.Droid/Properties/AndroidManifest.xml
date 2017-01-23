@@ -3,5 +3,5 @@
 	<uses-sdk android:minSdkVersion="16" />
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 	<uses-permission android:name="android.permission.CAMERA" />
-	<application android:label="ImageRecognizer.Droid"></application>
+	<application android:label="Reconocimiento de imágenes" android:theme="@android:style/Theme.Holo.Light"></application>
 </manifest>

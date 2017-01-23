@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:gravity="center">
-
+    android:gravity="center"
+    android:backgroundTint="#E3F2FD"
+  >
   <Button
       android:id="@+id/btnCapturePicture"
       android:layout_width="fill_parent"
-      android:layout_height="200dp"
+      android:layout_height="250dp "
       android:layout_margin="3dp"
-      android:text="Toma una foto"
+      android:text="Tomar foto"
       android:drawableLeft="@drawable/ic_photo_camera"
-      android:backgroundTint="#a37aef"
+      android:backgroundTint="#0cb8f7"
       android:textSize="20dp"     
       android:layout_centerInParent="true"
       android:layout_gravity="center" />
- <!--<Button
+ <Button
       android:id="@+id/btnGallery"
       android:layout_width="fill_parent"
-      android:layout_height="wrap_content"
-      android:text="Abrir galería"
-      android:background="@android:color/black"
-      android:layout_gravity="center_horizontal" />-->
+      android:layout_height="250dp"
+       android:layout_margin="3dp"
+      android:text="Seleccionar foto"
+      android:drawableLeft="@drawable/ic_insert_photo"
+      android:backgroundTint="#587b67"
+      android:textSize="20dp"     
+      android:layout_centerInParent="true"
+      android:layout_gravity="center" />
 </LinearLayout>

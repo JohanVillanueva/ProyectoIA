@@ -1,5 +1,6 @@
 ﻿using Android.App;
 using Android.Content;
+using Android.Database;
 using Android.OS;
 using Android.Provider;
 using Android.Widget;
@@ -12,10 +13,9 @@ using Uri = Android.Net.Uri;
 
 
 
-
 namespace ImageRecognizer.Droid
 {
-    [Activity(Label = "Reconocimiento de imágenes", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Reconocimiento de imágenes", MainLauncher = true, Icon = "@drawable/Icon")]
     public class MainActivity : Activity
     {
         private const int CAMERA_CAPTURE_IMAGE_REQUEST_CODE = 100;
